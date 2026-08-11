@@ -21,7 +21,7 @@ I work with WordPress, WooCommerce, custom code, Node.js, SEO tools and AI autom
 
 A Node.js B2B commerce application for managing catalogs, orders, RFQs, invoices, customers and API integrations.
 
-[View case study](https://markoantic.rs/en/projects/b2b-commerce-os/) · [View source code](https://github.com/anticmarko995-lab/b2b-commerce)
+[View case study](https://markoantic.rs/en/projects/b2b-commerce-os/)
 
 ### M Rent
 
